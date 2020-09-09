@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ki9impack",
+  "name": "Ki9im Pack",
+  "description": "Adds some stuff.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SpaceKi9im"],
+  "credits": "The Forge and FML guys, for making forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

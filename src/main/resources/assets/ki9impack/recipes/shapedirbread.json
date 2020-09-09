@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "NNN",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:air"
+    },
+    "N": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "ki9impack:iron_bread",
+    "data": 0
+  }
+}
